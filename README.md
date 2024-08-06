@@ -1,5 +1,4 @@
-# Contact Center Interaction Playback System
-
+# Media Player for Contact Center using Gen AI
 ## Table of Contents
 1. [Background](#background)
 2. [Challenge](#challenge)
